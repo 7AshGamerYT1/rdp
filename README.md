@@ -1,43 +1,16 @@
-# Windows-Server-In-Web
-# Warning
--This For education only
+# WINCDP
+How to use 
 
--This may need your privacy
+Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
 
-----------------------------
+Input the following code in the fields.
 
-# Step 1.
+Get the Windows (Powershell) command from here:
 
-Open the any browsers
+https://remotedesktop.google.com/headless
 
-![Capture](https://user-images.githubusercontent.com/94728590/179444093-fb46e84d-9690-4aec-a288-029d0a67a219.PNG)
+Enter you Six digit Pin code to Login
 
-# Step 2.
+(Any Six digit Pin)
 
-Enter this site
-
--https://docs.microsoft.com/en-us/learn/modules/extend-elements-finance-operations/4-exercise
-
-![Capture](https://user-images.githubusercontent.com/94728590/179444328-ebb2cb12-b68e-4cc8-9fd2-7d94d248179a.JPG)
-
-Note: Sign in your account if you have
-
-# Step 3.
-
-Click launch VM Mode, and verify
-
-![Capture2](https://user-images.githubusercontent.com/94728590/179444654-8c7003ba-648d-495f-90b7-46404e2b47da.JPG)
-
-Note: Now just waiting.
-
-If the Vm need to login, click the Resources
-
-![e](https://user-images.githubusercontent.com/94728590/179444995-f4f64606-e3b5-4f19-842c-80ed96096917.JPG)
-
-![idk](https://user-images.githubusercontent.com/94728590/179445067-8db53fa3-3a3d-4164-998f-f999f7d56dc1.png)
-
-Now if you done, go back to intrucstion and click done!
-
-![88](https://user-images.githubusercontent.com/94728590/179445196-595572eb-0f86-452d-ba8b-c5f2751b4bb3.png)
-
-Have Fun
+Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.
