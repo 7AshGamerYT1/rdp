@@ -15,7 +15,7 @@ Enter you Six digit Pin code to Login
 
 Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.
 
-# wINDOCS
+# WINDOCS
 How to use
 
 Go to this site!
