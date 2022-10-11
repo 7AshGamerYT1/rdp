@@ -42,6 +42,45 @@ Choose the Resources tab on the lab side bar, select the T icon next to Password
 
 https://cdn.discordapp.com/attachments/1000660990289006683/1013666878843015238/admin-logon.png
 
+# WINRDP
+
+How to use
+
+Go to bit.ly/vpsazure
+
+Scoll down to:
+
+"Self-paced training
+TRAINING
+Create a Linux virtual machine in Azure
+Create a Windows virtual machine in Azure"
+
+Choose: Exercise - Create a Windows virtual machine
+
+Sign in or Sign up your Microsoft account!
+
+Click activate sandbox
+
+if you done
+
+Go to  Azure portal 
+
+Click Virtual machines
+
+Create a Virtual Machine
+
+Now you can setup your own rdp example: "Windows 11 Pro, Windows Server 2022, ..."
+
+# Connect virtual machine
+
+Go virtual machines again!
+
+Click the created VM
+
+Choose connect
+
+At here you can download .rdp file! or connect with ip
+
 # End
 
 Thank You for reading this
