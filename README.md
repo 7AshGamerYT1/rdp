@@ -40,7 +40,8 @@ At the Windows Sign in!
 
 Choose the Resources tab on the lab side bar, select the T icon next to Password in the MININT box, to have the administrator password for the Virtual Machine entered for you.
 
-https://cdn.discordapp.com/attachments/1000660990289006683/1013666878843015238/admin-logon.png
+![admin-logon](https://user-images.githubusercontent.com/94728590/195452276-fb36093e-b806-4a23-b40b-c71f1198286b.png)
+
 
 # WINRDP
 
